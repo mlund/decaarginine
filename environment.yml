@@ -1,4 +1,4 @@
-name: python2
+name: decaarginine
 channels:
 - conda-forge
 - omnia
