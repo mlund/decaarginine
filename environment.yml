@@ -124,5 +124,4 @@ dependencies:
   - prompt-toolkit==1.0.14
   - pytraj==1.0.9
   - tables==3.4.2
-prefix: /Users/giulio/miniconda3/envs/python2
 
