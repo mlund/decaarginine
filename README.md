@@ -4,7 +4,7 @@ _Giulio Tesei and Mikael Lund, 2017_
 
 [DOI:10.1073/pnas.1712078114](www.pnas.org/cgi/doi/10.1073/pnas.1712078114).
 
-This repository contain a [Jupyter](http://jupyter.org) Notebook reproducing the work of the scientific
+This repository contains a [Jupyter](http://jupyter.org) Notebook reproducing the work of the scientific
 paper _Self-association of a highly charged arginine-rich cell-penetrating peptide_ published in the Proceedings of the National Academy of Sciences.
 
 The layout is as follows:
